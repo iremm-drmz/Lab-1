@@ -1,0 +1,6 @@
+git init 
+git add .
+git commit -m "ilk ödev yüklemesi"
+git branch -M main 
+git remote add origin https://github.com/iremm-drmz/web-tasarim-odev-1.git
+git push -u origin main
